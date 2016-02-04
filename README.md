@@ -1,22 +1,21 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+It does the things its supposed to do, and one thing more. Hopefully you will find it pleasing.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Jeffrey Shi ([jeffster888@berkeley.edu](mailto:jeffster888@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [muh viddeo] (https://youtu.be/o7KtlAHyzRE)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/s1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/s2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/s3.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+* \#TYBG
